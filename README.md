@@ -4,7 +4,7 @@ On the website on any browsers, you can create your notes with their title and t
 Extract hangman-main.zip field here and copy this file into your C:\Users\something(your username is written)
 
 Setup on Windows Command Processor
-1) cd notesapp-main
+1) cd todoapp-main
 2) npm install
 3) npm run build
 4) npm run dev-server
